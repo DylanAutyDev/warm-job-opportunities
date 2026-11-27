@@ -1,0 +1,8 @@
+# Personal job-search data. These files are created locally from assets/templates/.
+references/cv.md
+references/constraints.md
+references/search-history.md
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
